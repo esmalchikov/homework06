@@ -1,0 +1,4 @@
+Домашнее задание по теме "Базы данных. mySQL"
+https://github.com/netology-code/bweb-homeworks/tree/main/6.%20MySQL
+
+ 
